@@ -1,4 +1,4 @@
-##### **Data-Driven Business Performance Improvement at Apollo Pharmacy**
+**Data-Driven Business Performance Improvement at Apollo Pharmacy**
 
 
 This project applies data-driven analysis to address the financial and operational challenges faced by a medium-sized Apollo Pharmacy branch in Panchmukhi, Patna. The primary objectives are to optimize discount strategies, improve inventory management, and strengthen competitiveness against rival pharmacies.
@@ -15,7 +15,7 @@ This project applies data-driven analysis to address the financial and operation
 
 
 
-###### **Data Collection**
+**Data Collection**
 
 
 Three types of datasets were collected:
@@ -39,27 +39,27 @@ The following analytical methods were employed:
 
 
 
-###### **Results and Recommendations**
+**Results and Recommendations**
 
 
 The analysis provided several actionable insights, including:
 
 
-* ###### Discount Optimization:
+* Discount Optimization:
 
 * Increase discounts in key categories such as Cold \& Flu and Vitamins \& Supplements where competitors outperform Apollo.
 * Implement product-specific discounts for low-selling items.
 * Align category-level discounts with competitors while maintaining profit margins.
 
 
-* ###### Inventory Management Enhancements:
+* Inventory Management Enhancements:
 
 * Restock high-demand items (e.g., Fish Oil, Multivitamin, Vitamin C) earlier and in larger quantities.
 * Use demand forecasting to avoid stockouts during peak demand.
 * Balance inventory to prevent overstocking during low sales periods.
 
 
-* ###### Competitive Positioning:
+* Competitive Positioning:
 
 * Introduce targeted marketing campaigns and loyalty programs.
 * Adopt CRM systems to record customer preferences and purchase history.
