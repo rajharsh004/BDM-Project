@@ -1,4 +1,4 @@
-**Data-Driven Business Performance Improvement at Apollo Pharmacy**
+***Data-Driven Business Performance Improvement at Apollo Pharmacy***
 
 
 This project applies data-driven analysis to address the financial and operational challenges faced by a medium-sized Apollo Pharmacy branch in Panchmukhi, Patna. The primary objectives are to optimize discount strategies, improve inventory management, and strengthen competitiveness against rival pharmacies.
